@@ -3,7 +3,7 @@
    </p>
    <h1 align="center"> Hello, welcome to my page</h1>
    <h3 align="center">Full-Stack Software Engineer | Husband & Father | Pro MMA fighter</h4>
-   <p align="center">Want to see some of my work? feel free to Visit my <a href="">portfolio site!https://omarelsahlah.netlify.app/</a></p>
+   <p align="center">Want to see some of my work? feel free to Visit my <a href="">portfolio site!</a>https://omarelsahlah.netlify.app/</p>
    <p align="center">Join my on my journey to becoming a programmer, Visit my</p>
    <p align="center"><a href="https://www.instagram.com/omarthebull/">Instagram </a> || <a href="https://twitter.com/OmarElsahlah">Twitter!</a></p>
 
